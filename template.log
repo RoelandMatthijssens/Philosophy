@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.7)  10 JUN 2013 22:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.7)  10 JUN 2013 22:49
 entering extended mode
  %&-line parsing enabled.
 **template.tex
@@ -919,12 +919,8 @@ File: ./images/parallell.png Graphic file (type png)
 <./images/fixingit.png, id=29, 510.90875pt x 295.1025pt>
 File: ./images/fixingit.png Graphic file (type png)
 
-<use ./images/fixingit.png>
-Overfull \hbox (18.60532pt too wide) in paragraph at lines 37--40
-[] 
- []
-
-[2 <./images/parallell.png>]) [3 <./images/fixingit.png>] (./template.aux) ) 
+<use ./images/fixingit.png> [2 <./images/parallell.png>]) [3 <./images/fixingit
+.png>] (./template.aux) ) 
 Here is how much of TeX's memory you used:
  12337 strings out of 493848
  180961 string characters out of 1152824
@@ -933,14 +929,13 @@ Here is how much of TeX's memory you used:
  12798 words of font info for 36 fonts, out of 3000000 for 9000
  716 hyphenation exceptions out of 8191
  43i,11n,43p,1330b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/u
-sr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb>
-</usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf
--texlive/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (3 pages, 123667 bytes).
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texli
+ve/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/
+uplr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on template.pdf (3 pages, 123251 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
