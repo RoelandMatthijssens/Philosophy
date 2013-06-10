@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.7)  11 JUN 2013 00:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.7)  11 JUN 2013 00:08
 entering extended mode
  %&-line parsing enabled.
-**template.tex
-(./template.tex
+**"Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.tex"
+(./Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
@@ -725,12 +725,15 @@ File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
 Package: centernot 2007/05/31 v1.1 Centers the not symbol horizontally (HO)
 )
 \@indexfile=\write3
-\openout3 = `template.idx'.
+\openout3 = `"Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.id
+x"'.
 
 
-Writing index file template.idx
-(./template.aux)
-\openout1 = `template.aux'.
+Writing index file "Twisting Facts To Suit Theories - Roeland Matthijssens - 88
+208".idx
+(./Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.aux)
+\openout1 = `"Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.au
+x"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
 LaTeX Font Info:    ... okay on input line 112.
@@ -747,7 +750,8 @@ LaTeX Font Info:    ... okay on input line 112.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 112.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 112.
 
- (/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
+
+(/usr/share/texmf-texlive/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 112.
@@ -842,13 +846,16 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 112.
 LaTeX Info: Redefining \pageref on input line 112.
- (./template.out)
-(./template.out)
+
+(./Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.out)
+(./Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.out)
 \@outlinefile=\write4
-\openout4 = `template.out'.
+\openout4 = `"Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.ou
+t"'.
 
 \AtBeginShipoutBox=\box69
- (/usr/share/texmf-texlive/tex/latex/ms/ragged2e.sty
+
+(/usr/share/texmf-texlive/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
 (/usr/share/texmf-texlive/tex/latex/ms/everysel.sty
@@ -919,23 +926,25 @@ File: ./images/parallell.png Graphic file (type png)
 <./images/fixingit.png, id=38, 510.90875pt x 295.1025pt>
 File: ./images/fixingit.png Graphic file (type png)
 
-<use ./images/fixingit.png>) [3 <./images/fixingit.png>] (./template.aux) ) 
+<use ./images/fixingit.png>) [3 <./images/fixingit.png>]
+(./Twisting Facts To Suit Theories - Roeland Matthijssens - 88208.aux) ) 
 Here is how much of TeX's memory you used:
  12337 strings out of 493848
- 180961 string characters out of 1152824
+ 181833 string characters out of 1152824
  314927 words of memory out of 3000000
  15317 multiletter control sequences out of 15000+50000
  12798 words of font info for 36 fonts, out of 3000000 for 9000
  716 hyphenation exceptions out of 8191
- 43i,11n,43p,1734b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/us
-r/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb><
-/usr/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-
-texlive/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (3 pages, 125167 bytes).
+ 43i,11n,43p,1790b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/s
+hare/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></us
+r/share/texmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-tex
+live/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "Twisting Facts To Suit Theories - Roeland Matthijssens - 882
+08.pdf" (3 pages, 125167 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  22 named destinations out of 1000 (max. 500000)
